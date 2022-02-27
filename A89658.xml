@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Yorke. Being a true relation of the proceedings of Sir Hugh Cholmley since his comming to Scarborough: with the reasons why he did not march to Tadcaster, as was desired by the Lord Fairfax. Directed in two severall letters to the speaker of the honourable House of Commons, with his advice of the affaires of the county. Together with the opinion of his officers concerning his repaire backe to Scarborough.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89658</idno>
+            <idno type="STC">Wing N1028</idno>
+            <idno type="STC">Thomason E85_17</idno>
+            <idno type="STC">ESTC R20992</idno>
+            <idno type="EEBO-CITATION">99868765</idno>
+            <idno type="PROQUEST">99868765</idno>
+            <idno type="VID">121121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121121)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Yorke. Being a true relation of the proceedings of Sir Hugh Cholmley since his comming to Scarborough: with the reasons why he did not march to Tadcaster, as was desired by the Lord Fairfax. Directed in two severall letters to the speaker of the honourable House of Commons, with his advice of the affaires of the county. Together with the opinion of his officers concerning his repaire backe to Scarborough.</title>
+                  <author>Cholmley, Hugh, Sir, 1600-1657.</author>
+                  <author>Legard, John.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Best,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>One of the letters is "subscribed by John Legard, Captain" -- p. 6.</note>
+                  <note>Annotation on Thomason copy: "Jan: 18th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Signatures: A⁴.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cholmley, Hugh, --  Sir, 1600-1657.</term>
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Scarborough (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121121:1" rendition="simple:additions"/>
+            <p>NEVVES FROM YORKE.</p>
+            <p>Being A true Relation of the proceedings of Sir <hi>Hugh Cholmley</hi> ſince his comming to <hi>Scarborough:</hi> with the reaſons why he did not march to <hi>Tadcaſter,</hi> as was de<g ref="char:EOLhyphen"/>ſired by the Lord FAIRFAX.</p>
+            <p>Directed in two ſeverall Letters to the Speaker of the Honourable Houſe of Commons, with his advice of the affaires of the County.</p>
+            <p>Together with the opinion of his Officers concerning his repaire backe to <hi>Scarborough.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Richard Beſt.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:121121:2"/>
+            <pb facs="tcp:121121:2"/>
+            <head>Severall Letters.</head>
+            <div type="letter">
+               <p>SIr, I perceive by a letter I received from Mr. <hi>Pym,</hi> the dividing of my Forces from the reſt of the Army, is by the Houſe appre<g ref="char:EOLhyphen"/>hended to bee very prejudiciall to the ſervice of the Kingdome, as that this place is conceived not to be very uſefull. The former of which particulars trencheth ſo much upon my diſcretion and ho<g ref="char:EOLhyphen"/>nour, as for my vindication I muſt crave your favour in preſenting this incloſed to the Houſe, containing my whole deportment ſince I came hither; which if it prove to my juſtification, I ſhall humbly crave their ſenſe ſo upon it; if otherwiſe, that I may be called to make anſwer to any particular may ſtick with them, and receive according to my demerits: for if I have failed in my duty, I am unworthy to be imployed longer in publick ſervice: if not, I truſt they will not think it reaſonable I ſhould lye under ſo heavie a cenſure. I hope my retrea<g ref="char:EOLhyphen"/>ting to Scarborough will appear to be upon good grounds, &amp; only to diſcharge the truſt upon me; and that my not obeying my Lord <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> Orders, can be no great crime, ſince I proteſt I did not then, nor of a good time after, know the power he hath over us: for I ſhould not then ſo much have ſcrupled, in reſpect his command had been a ſecurity to me for any inconvenience which might have happened: nor can I remember I ever diſſented from what he propounded, ſa<g ref="char:EOLhyphen"/>ving this laſt, to caſt my ſelfe and Forces into the Weſt Riding ſo remote from my charge, For thoſe ſeverall orders mentioned in the printed papers, to which it is ſaid, I found ſuch impediments, I could not obey them, had but the times beene mentioned, or copies of them produced, I could have anſwered; and till then I muſt put them in ballance with the ſeven hundred men (is ſaid in print too) that I retreated with to Scarborough. Sir, if the affaires of this Court<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are not in ſo good a condition a<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a few weeks agoe there was hopes for, I humbly beſeech the Houſe, the blame may not be (as it <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome would have it) wholly imputed to my neglect: For to <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> plainly and clearly, I thinke it proceeds from this cauſe, that <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> drew
+<pb facs="tcp:121121:3"/>
+not neere to the Citie of Yorke, and made ſome attempt upon it, (wherein I ſhall make my forwardneſſe manifeſt) and if wee had not prevailed before my Lord of Newcaſtles approach neere us, yet we had been united in a body to have oppoſed him. For the other point, touching this Caſtle, I offer the opinion of all my Captaines, which I doe meerly that it may bee conſidered how farre it may bee uſefull; not that I would thereby make advantage to continue this command: For ſince I am ſo unfortunate, as the care of the place makes my actions ſubject to miſconſtruction, and that I am ſo little thought upon, as there is neither courſe taken for ſupply of money or ammunition, nor that I can receive commiſſion or inſtruction for my better direction, I ſhall moſt humbly beſeech the Houſe to diſcharge me of this truſt. And however I have erred, I have not failed in my paines and faithfulneſſe ſince I came hither. Nor as I did not ſeeke the imployment, ſo was I not drawn into action by private ends, but out of deſire to contribute my poore endeavours to the ſetling the truth of the Goſpel, liberty of the Subject, and peace of the King<g ref="char:EOLhyphen"/>dome, which I ſhall wiſh and heartily pray for, and that with as much honour as poſſibly may be to his Majeſty. For if there be not a good underſtanding between him and his Parliament ſhortly, ſo that theſe unhappy diſtractions may be compoſed, to my judgement the King<g ref="char:EOLhyphen"/>dome is in danger to bee ruined. I ſhall not need further to relate how affaires ſtand here, in reſpect the bearer my Lieutenant Colonel, can informe in every particular; and therefore will only adde my de<g ref="char:EOLhyphen"/>ſire to be in your eſteeme, as I ſhall ever approve my ſelfe, Sir,</p>
+               <closer>
+                  <signed>Your moſt humble Servant,
+<hi>H. Cholmely.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Another Letter.</head>
+               <p>SIr, before my comming to Scarborough, or that I could draw any conſiderable forces hither, a great part of my Regiment was diſarmed; and this place being at an out Angle, I did not without difficulty in three weekes draw together foure hundred <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and being much importuned by Sir <hi>Iohn Hotham</hi> to march towards Yorke, I acquainted my Captaines with it, who joyntly
+<pb facs="tcp:121121:3"/>
+preſented their opinions and advice in writing to diſſwade me, in reſpect of the weake condition I ſhould leave this place, and the ſtrength of the enemy at Yorke, who was then reputed two thouſand: Yet conceiving my advancing into the Countrey, would be much for the ſervice of the publicke, leaving onely one hundred and twelve men or thereupon in the Caſtle; I marched from hence with under three hundred foot, and quartered at Stamford bridge within five miles of Yorke: then two hundred and twenty men more came to me from Sir <hi>Iohn Hotham,</hi> and theſe with two troopes of horſe was my whole ſtrength, and with them, as I was deſired, I en<g ref="char:EOLhyphen"/>deavoured to cut off all ſupply from the City, but finding an impoſſi<g ref="char:EOLhyphen"/>bility to doe it at that diſtance we were, I moved both my Lord <hi>Fairfax</hi> and Sir <hi>Iohn Hotham</hi> that we might quarter our ſelves within the Suburbs of the City, and having as I thought by a letter I writ to my Lord Major ſet the mindes of many of the Citizens not to en<g ref="char:EOLhyphen"/>dure a ſiege, I reſolved my ſelfe, though none joyned with me to fall upon ſome part of the Suburbs, and for that purpoſe ſent for a great Ordnance to Scarborough, and when ſhe was within two miles of my quarters at Stamford bridge, I was forced to ſend her backe againe, in reſpect I received a letter from Sir <hi>Chriſtopher Wray,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Hotham</hi> and Captain <hi>Hatcher</hi> that they were advanced towards the Teas, to ſtop the Earl of Newcaſtles paſſage into Yorkſhire, and deſired me to march up to them, which as I was preparing to doe, comes another letter from them for my ſtay, where I was at Brigge till I heard further from them, and though perhaps they after writ ſome letters which came not to my hands, yet upon the firſt from my Lord <hi>Fairfax</hi> deſiring my march to Thirske, the next morning I broke up in quarters, and marched to Malton, where I met Colonell <hi>Boynton,</hi> who being commanded to march two dayes before me, was retreated thither, in reſpect the enemy advanced ſo faſt, he could not come to joyne with Captaine <hi>Hotham;</hi> and hither to Malton my Lord <hi>Fairfax</hi> writ to Colonell <hi>Boynton,</hi> and my ſelfe, that we would march backe into the Eaſt, and by paſſing ſome Ferries come up to his quarters at Tadcaſter, which I profeſſe I was reſolved to doe, but I found all my Captains of a contrary opinion, and to diſſwade mee
+<pb facs="tcp:121121:4"/>
+from that courſe, and then I began more ſeriouſly to thinke of the bu<g ref="char:EOLhyphen"/>ſineſſe, and reſolved it was fit for me to repaire to Scarborough with ſome forces for theſe reaſons: Firſt, my order was to repaire with my Regiment to Scarborough, and principally to ſecure the Caſtle and Towne, and to continue or remove from time to time, as I ſhould receive directions and order from the Parliament, the Lord Gene<g ref="char:EOLhyphen"/>rall, or Committee for the ſafety of the Kingdome. Secondly, I had left the Caſtle with a weake garriſon, ill fortified, not a Platforme or Ordnance mounted within the walls, unvictualled, ill provided with ammunition, there being but eleven barrells of powder. Thirdly, though I was willing to march to any place to oppoſe the enemies paſſage into the Countrey, or to give him battell, and bring the bu<g ref="char:EOLhyphen"/>ſineſſe to an iſſue; yet I thought it not fit to be caſt into a part of the Countrey where I might not upon any occaſion reſort to my charge, nor was there any certainty, if the enemy once got into Yorke when we ſhould encounter with him. Fourthly, when I marched from Scarborough, I left no enemy at my backe, my party was matters of the field, I could reſort to my charge upon every occaſion; he caſe was now otherwiſe, ſhould I have gone with my forces as was deſi<g ref="char:EOLhyphen"/>red into the Weſt, I ſhould have left a powerfull enemy behinde, that might have marched hither without oppoſition, and as my Captains conceived might have taken the Caſtle without much difficulty in the condition it then was. Fifthly, my march from Scarborough was againſt the conſent and opinion of my Captaines, and though I had craved the Committees approbation for my doing ſo, and their further directions, I could never obtaine it: ſo that having marched from thence againſt my Captains conſent, &amp; not to retire when they conceived it of ſuch neceſſity; I thought it would be interpreted be<g ref="char:EOLhyphen"/>yond the bounds of my order or diſcretion, and not ſuting with the diſcharge of the truſt impoſed on me. Sixtly, I had not money to pay thoſe forces with me a weeke, nor had left for the garriſon much longer. So for theſe reaſons I thought fit, and reſolved to repaire to Scarborough with ſome forces, which were under three hundred foote, and forty horſe; yet had I ſuch care as well in reſpect of the publicke, as to ſatisfie my Lord <hi>Fairfax</hi> his deſires; I declared mine
+<pb facs="tcp:121121:4"/>
+opinion, it was fit for Colonell <hi>Boynton</hi> to march with all his forces to the Lord <hi>Fairfax,</hi> and he being very ready, and reſolved to do ſo, I deſigned Captaine <hi>Mildem<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> and Captaine <hi>Al<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reds</hi> troopes which were with me, with the two hundred and twenty foote ſent me from Sir <hi>Iohn Hotham</hi> to march with him; and in reſpect we were informed the enemy had drawne ſome forces on the other ſide of the river of <hi>Darwent,</hi> oppoſite to where Colonell <hi>Boynton</hi> was to quarter the firſt night; I did ſend my carriages, and the foot being in number as I ſaid under three hundred, from Malton the direct way to Scarborough, but my ſelfe with my forty horſe, marched the firſt day along with Colonell <hi>Boynton,</hi> and then apprehending there would bee no great danger betweene that place and the Ferry whither they were directed; I marched the next day to Scarborough, which I thinke was ſo far from a diſſervice, as it was advantagious in theſe particulars, I ſtrengthened the garriſon, I brought a ſupply of as many barrells of powder as I had left in the Magazine, as likewiſe two peeces of ſmall Ordnance, of which there was great need at the Caſtle: I have fortified the place in much better manner then it was: And laſtly, by returning thither I got a ſupply of money from the adjacent parts, without which, we could not have ſubſiſted till this time; and though by theſe reaſons I was induced to retreat, it was not with an intention to immure my ſelf in the Caſtle, but reſolved as ſoone as I had fortified the ſame, and left it in better ſecurity to march to my Lord <hi>Fairfax</hi> with my troope, and ſuch a number as could be ſpared from the Caſtle, and might be mounted for Dragooners, which I had performed before this, but that I was drawne another way by commands from the Lord <hi>Fairfax.</hi>
+               </p>
+               <p>Now this reſolution being duly conſidered, I hope it will not ap<g ref="char:EOLhyphen"/>peare I have been remiſſe in performing my duty to the publicke, or the ſervice and truſt committed to me, nor yet that the Lord <hi>Fairfax</hi> in the managing of his affaires, could receive much prejudice by my retreat, conſidering how few I drew<g ref="char:punc">▪</g> with me, except the preſence of my own perſon ſhould be more conſiderable then my merit, or the printed paper makes me.</p>
+               <closer>
+                  <signed>Hu. Cholmley.</signed>
+               </closer>
+            </div>
+            <div type="statement">
+               <pb facs="tcp:121121:5"/>
+               <p>IT being propounded unto us by our Colonell Sir <hi>Hugh Cholmeley</hi> to declare our opinions touching the propoſition for our marching from Malton to Tad<g ref="char:EOLhyphen"/>caſter to joyne with the Lord <hi>Fairfax:</hi> Wee conſidering that the Caſtle of Scarborough was left with a weak Gariſon, unfortified, unprovided of ammu<g ref="char:EOLhyphen"/>nition or victualls. And as the place ſeemes to our judgements to be of great importance, ſo we had reaſon to thinke the enemy had a ſpeciall eye towards it; That if all our forces ſhould have beene drawne ſo remote from Scarborough, the enemy might have advanced thither without oppoſition, and have beene maſter of the towne and place without any great difficulty. And therefore we gave our opinions and advices; that it was fit &amp; requiſite our Colonell ſhould retreat to Scarborough with three hundred foot which was all the forces belonging to that Regiment, ex<g ref="char:EOLhyphen"/>cept thoſe which were in the Caſtle, to fortifie and ſecure the place better then it was at that preſent, or elſe we conceived he could not diſcharge the truſt that was repoſed in him: And for the ſtrength of the Caſtle, we conceive, the ſame being well fortified, and victualled, that a Garriſon of three hundred men will be able to de<g ref="char:EOLhyphen"/>fend it, againſt any force that can come to oppoſe it.</p>
+               <p>And we do further conceive, the ſame to be a place of very great conſequence, for theſe reaſons.</p>
+               <p>1. He who is Commander of the Caſtle hath a great power over the adjacent parts of this Country.</p>
+               <p>2. Conſidering, as affaires now ſtand, it is the onely Port to land men or ammunition to ſupply the enemy, and that if the enemy were poſſeſſed thereof, it lies ſo oppoſite to Holland, or Denmarke, that he might take opportunitie to ſend men or proviſions from thence hither in deſpite of any Navy upon the Sea.</p>
+               <p>3. That from this place, Ordnance or Carriages, may paſſe in the depth of win<g ref="char:EOLhyphen"/>ter to Yorke without difficulty, which cannot be done from Newcaſtle both in re<g ref="char:EOLhyphen"/>ſpect of the diſtance and ilneſſe of the wayes.</p>
+               <p>4. This Fort lies more conveniently then any other in the Kingdome for Pin<g ref="char:EOLhyphen"/>nances that may upon every occaſion make out and hinder the bringing of Armes or Ammunition from Holland or Denmarke.</p>
+               <closer>
+                  <signed>Subſcribed by <hi>Lancelot Alured</hi> Lieutenant Colonell. <hi>George Orme</hi> Ser<g ref="char:EOLhyphen"/>geant Major. <hi>Browne Buſhell, John Colborne, Richard Medley</hi> Captains.</signed>
+               </closer>
+            </div>
+            <div type="statement">
+               <p>When my Colonell was at Malton with his Forces I was at Scarbrough intruſt<g ref="char:EOLhyphen"/>ed with the Caſtle, ſo that I was not then preſent to give my opinion for his retreat. At his comming hither there were but eleven barrells of powder in the Caſtle, one hundred and twelve men, divers of which unfit for ſervice, not victualls for ten daies to keepe them, nor any one peece of Ordnance mounted within the Caſtle, and therefore I conceive it was very neceſſary for him to retire hither, for ſupplying all theſe and other defects.</p>
+               <closer>
+                  <signed>Subſcribed by <hi>John Legard</hi> Captaine.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
